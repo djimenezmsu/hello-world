@@ -9,4 +9,4 @@ This is my first time taking **CSC430** and I'm pretty excited to learn how to f
 
 I have two other Github accounts: My Personal **@DJimLut** and My Work **@NAS-DJimLut**.
 
-A fun fact about me is that I traveled out of the country before I traveled out of state.
+A fun fact about me is that I traveled out of the country before I traveled out of state. 
